@@ -1,0 +1,15 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.Test                                                                    
+==============================================================================
+Test Run 2                                                            CSV Data [{'txt_box_username': 'standard_user', 'txt_box_password': 'secret_sauce'}, {'txt_box_username': 'locked_out_user', 'txt_box_password': 'secret_sauce'}, {'txt_box_username': 'problem_user', 'txt_box_password': 'secret_sauce'}, {'txt_box_username': 'performance_glitch_user', 'txt_box_password': 'secret_sauce'}]
+| PASS |
+------------------------------------------------------------------------------
+Tests.Test                                                            | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Tests                                                                 | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Output:  /Users/chiranth.c/Documents/robot_framework/pabot_results/6/output.xml
